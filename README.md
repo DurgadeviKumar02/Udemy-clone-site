@@ -24,7 +24,7 @@ To view the project locally, follow these steps:
 
 **Clone this repository:**
 
-git clone https://github.com/your-username/udemy-website-clone.git
+git clone:https://durgadevikumar02.github.io/Udemy-clone-site/
 Open the index.html file in your preferred web browser.
 
 **Contributing**
